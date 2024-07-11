@@ -1,3 +1,7 @@
+NOTE FROM Lebang: I just added my model to the "Your model" section.
+couldn't retrieve my files from colab, but the model is there
+
+
 ## Isazi IndabaX 2024 Hackathon Challenge
 
 ### Problem Domain
